@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+university,Chrome 125.0.0.0,,,13-06-2024 14:27:33,13-06-2024 14:36:36,9m - 2.896s,FAILED
+,,,,,,,
+Test Cases/Bharath/academic,Chrome 125.0.0.0,,,13-06-2024 14:28:08,13-06-2024 14:28:17,8.319s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:28:08,13-06-2024 14:28:11,2.353s,PASSED
+"navigateToUrl(""https://btu.ac.in/home/"")",Chrome 125.0.0.0,,,13-06-2024 14:28:11,13-06-2024 14:28:16,5.316s,PASSED
+"click(findTestObject(""Object Repository/Page_Bikaner Technical University/a_Admissions""))",Chrome 125.0.0.0,,,13-06-2024 14:28:16,13-06-2024 14:28:17,0.627s,FAILED
+,,,,,,,
+Test Cases/Bharath/Admission,Chrome 125.0.0.0,,,13-06-2024 14:31:02,13-06-2024 14:31:52,50.482s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:31:02,13-06-2024 14:31:07,5.254s,PASSED
+"navigateToUrl(""https://btu.ac.in/home/"")",Chrome 125.0.0.0,,,13-06-2024 14:31:07,13-06-2024 14:31:14,6.596s,PASSED
+"click(findTestObject(""Object Repository/Page_Bikaner Technical University/a_Administration""))",Chrome 125.0.0.0,,,13-06-2024 14:31:14,13-06-2024 14:31:17,3.152s,PASSED
+"click(findTestObject(""Object Repository/Page_Bikaner Technical University/a_Dean Faculty of Management""))",Chrome 125.0.0.0,,,13-06-2024 14:31:17,13-06-2024 14:31:19,2.580s,PASSED
+"click(findTestObject(""Object Repository/Page_Bikaner Technical University/a_Dean Research""))",Chrome 125.0.0.0,,,13-06-2024 14:31:19,13-06-2024 14:31:52,32.875s,FAILED
+,,,,,,,
+Test Cases/Bharath/Examination,Chrome 125.0.0.0,,,13-06-2024 14:32:26,13-06-2024 14:32:34,8.190s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:32:26,13-06-2024 14:32:29,2.313s,PASSED
+"navigateToUrl(""https://btu.ac.in/home/"")",Chrome 125.0.0.0,,,13-06-2024 14:32:29,13-06-2024 14:32:34,5.070s,PASSED
+"click(findTestObject(""Object Repository/Page_Bikaner Technical University/a_Time Table""))",Chrome 125.0.0.0,,,13-06-2024 14:32:34,13-06-2024 14:32:34,0.784s,FAILED
+,,,,,,,
+Test Cases/Bharath/home,Chrome 125.0.0.0,,,13-06-2024 14:35:01,13-06-2024 14:35:48,47.241s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:35:01,13-06-2024 14:35:04,3.474s,PASSED
+"navigateToUrl(""https://btu.ac.in/home/"")",Chrome 125.0.0.0,,,13-06-2024 14:35:04,13-06-2024 14:35:10,5.879s,PASSED
+"click(findTestObject(""Object Repository/Page_Bikaner Technical University/a_Administration""))",Chrome 125.0.0.0,,,13-06-2024 14:35:10,13-06-2024 14:35:15,4.443s,PASSED
+"click(findTestObject(""Object Repository/Page_Bikaner Technical University/img_concat(Hon, , ble Governor, CHANCELLOR)_61fa78""))",Chrome 125.0.0.0,,,13-06-2024 14:35:15,13-06-2024 14:35:15,0.644s,PASSED
+"click(findTestObject(""Object Repository/Page_Bikaner Technical University/img_Administrative Staff of BTU_img-polaroid""))",Chrome 125.0.0.0,,,13-06-2024 14:35:15,13-06-2024 14:35:48,32.779s,FAILED
+,,,,,,,
+Test Cases/Bharath/Research,Chrome 125.0.0.0,,,13-06-2024 14:36:22,13-06-2024 14:36:36,14.358s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:36:22,13-06-2024 14:36:25,2.848s,PASSED
+"navigateToUrl(""https://btu.ac.in/home/"")",Chrome 125.0.0.0,,,13-06-2024 14:36:25,13-06-2024 14:36:36,10.994s,PASSED
+"click(findTestObject(""Object Repository/Page_Bikaner Technical University/a_Research""))",Chrome 125.0.0.0,,,13-06-2024 14:36:36,13-06-2024 14:36:36,0.496s,FAILED
